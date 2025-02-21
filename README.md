@@ -14,7 +14,7 @@ A web-based tool for generating QR codes from website URLs. This tool allows use
 
 ## Demo
 
-You can see a live demo of the QR Code Generator [here](#).
+You can see a live demo of the QR Code Generator [here](#https://qrcode-genurl.netlify.app/).
 
 ## Installation
 
