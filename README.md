@@ -15,10 +15,10 @@ A web-based tool for generating QR codes from website URLs. This tool allows use
 ## Screenshots
 
 ### Desktop View
-![Desktop View](https://raw.githubusercontent.com/naveed-gung/qr-code-generator/main/screenshots/desktop.png "Desktop View")
+![Desktop View](/screenshots/desktop.png "Desktop View")
 
 ### Mobile View
-![Mobile View](https://raw.githubusercontent.com/naveed-gung/qr-code-generator/main/screenshots/mobile.png "Mobile View")
+![Mobile View](screenshots/mobile.png "Mobile View")
 
 ## Demo
 
