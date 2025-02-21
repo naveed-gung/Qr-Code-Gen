@@ -15,10 +15,10 @@ A web-based tool for generating QR codes from website URLs. This tool allows use
 ## Screenshots
 
 ### Desktop View
-![Desktop View]([/screenshots/desktop.png](https://raw.githubusercontent.com/naveed-gung/Qr-Code-Gen/refs/heads/main/screenshot/desktop.png) "Desktop View")
+![Desktop View](https://raw.githubusercontent.com/naveed-gung/Qr-Code-Gen/refs/heads/main/screenshot/desktop.png "Desktop View")
 
 ### Mobile View
-![Mobile View]([screenshots/mobile.png](https://raw.githubusercontent.com/naveed-gung/Qr-Code-Gen/refs/heads/main/screenshot/desktop.png) "Mobile View")
+![Mobile View](https://raw.githubusercontent.com/naveed-gung/Qr-Code-Gen/refs/heads/main/screenshot/mobile.png "Mobile View")
 
 ## Demo
 
@@ -31,15 +31,15 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/your-username/qr-code-generator.git
-   ```bash
+   ```
 2. **Navigate to the Project Directory**:
    ```bash
    cd qr-code-generator
-   ```bash
+   ```
 3. **open the HTML file**:
     ```bash
     cd index.html
-    ```bash
+    ```
 
 ## Usage
 
