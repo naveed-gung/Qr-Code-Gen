@@ -12,9 +12,17 @@ A web-based tool for generating QR codes from website URLs. This tool allows use
 - **Download and Share**: Download QR codes in various formats and share them on social media.
 - **Progress Indicator**: Real-time feedback while generating QR codes.
 
+## Screenshots
+
+### Desktop View
+![Desktop View](https://raw.githubusercontent.com/naveed-gung/qr-code-generator/main/screenshots/desktop.png "Desktop View")
+
+### Mobile View
+![Mobile View](https://raw.githubusercontent.com/naveed-gung/qr-code-generator/main/screenshots/mobile.png "Mobile View")
+
 ## Demo
 
-You can see a live demo of the QR Code Generator [here](#https://qrcode-genurl.netlify.app/).
+You can see a live demo of the QR Code Generator [here](https://qrcode-genurl.netlify.app/).
 
 ## Installation
 
@@ -27,8 +35,11 @@ To run this project locally, follow these steps:
 2. **Navigate to the Project Directory**:
    ```bash
    cd qr-code-generator
-   ```
-3. open index.html
+   ```bash
+3. **open the HTML file**:
+    ```bash
+    cd index.html
+    ```bash
 
 ## Usage
 
